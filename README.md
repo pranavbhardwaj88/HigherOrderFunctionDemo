@@ -1,4 +1,4 @@
-# HigherOrderFunctionDemo
+# Higher Order Function 
 
 A higher order function is a function that takes one or more functions as argument and returns a function as its result.
 With higher order function, we can use existing functionalities of Swift to achieve more with less effort. 
